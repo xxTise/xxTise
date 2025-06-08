@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tise Ogundeji
+# 👋 Hi, I'm Tise
 
 🎓 **Cloud Engineering + DevOps Enthusiast** 
 🔭 Currently pursuing my **B.S. in Computer Information Technology** at Eastern Illinois University  
