@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tise
 
-🎓 **Cloud Engineering + DevOps Enthusiast** 
-🔭 Currently pursuing my **B.S. in Computer Information Technology** at Eastern Illinois University  
+🎓 **Cloud Architecture + Sales Engineering Enthusiast** 
+🔭 Currently pursuing my **M.S. in Computer Information Technology** at Eastern Illinois University  
 🎯 **Goal:** To break into Cloud Engineering or Solutions Architecture and help companies build secure, scalable, and automated infrastructure.
 
 ---
