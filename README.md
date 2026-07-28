@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Tise
 
 🎓 **Cloud Architecture + Sales Engineering Enthusiast** - AWS Certified Solutions Architect Associate
+
 🔭 Currently pursuing my **M.S. in Computer Information Technology** at Eastern Illinois University  
 🎯 **Goal:** To break into Cloud Engineering or Solutions Architecture and help companies build secure, scalable, and automated infrastructure.
 
